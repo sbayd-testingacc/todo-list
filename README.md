@@ -14,7 +14,7 @@ $ npm install
 $ npm start
 ```
 
-Then go to http://localhost:8081/
+Then go to http://localhost:8080/
 
 ### Development
 
