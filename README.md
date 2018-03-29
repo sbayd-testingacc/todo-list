@@ -4,8 +4,10 @@ A simple todo list app written in React.
 
 ### Quick start
 
+First, fork the repository. Then...
+
 ```bash
-$ git clone git@github.com:lodgify/todo-list.git
+$ git clone git@github.com:[your-username]/todo-list.git
 $ cd todo-list
 $ npm install
 # Run the development server.
