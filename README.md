@@ -68,7 +68,9 @@ Component.displayName = 'App';
 
 ### Contributing
 
-Open a PR into the [master branch](https://github.com/lodgify/todo-list/tree/master).
+Make a fork of this repoisority. No PRs into this repository, please :).
+
+Open one or more PRs into the master branch of your fork.
 
 A PR will not be approved if any of the following commands fail
   - `npm run lint`
