@@ -68,7 +68,7 @@ Component.displayName = 'App';
 
 ### Contributing
 
-Make a fork of this repoisority. No PRs into this repository, please :).
+Make a fork of this repository. No PRs into this repository, please :).
 
 Open one or more PRs into the master branch of your fork.
 
