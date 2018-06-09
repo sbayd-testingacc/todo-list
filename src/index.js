@@ -9,4 +9,4 @@ rootDiv.id = 'root';
 
 document.body.appendChild(rootDiv);
 
-render(<App />, document.querySelector('#root'));
+render(<App />, document.getElementById('root'));
